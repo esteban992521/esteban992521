@@ -1,6 +1,4 @@
-## Hola, Soy HugoDev
-
-Código, innovación y desafíos: mi zona de juego.
+## 👨‍💻 ¡Hola Mundo!, Soy HugoDev.
 
 [![Have a look at esteban992521 Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/theshiveshnetwork)](https://holopin.me/theshiveshnetwork)
 
@@ -20,7 +18,7 @@ Código, innovación y desafíos: mi zona de juego.
 
 
 
-## 💻 Acerca de mi
+## 🔥 Código, innovación y desafíos: mi zona de juego.
 
 Soy un programador senior con más de 20 años de experiencia, apasionado por la tecnología y la resolución de problemas complejos con creatividad y eficiencia. Disfruto explorando nuevas tecnologías, optimizando procesos y enfrentando retos que pongan a prueba mis habilidades.
 
@@ -29,7 +27,7 @@ Además de programar, los videojuegos han sido una fuente constante de inspiraci
 Si tienes un proyecto desafiante en mente, ¡hablemos! 🚀
 
 
-## 👨‍💻 Lenguajes
+## 💻 Mi Stack:
 
 <div style="display: flex; align-items: center; justify-content: center;">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="Vue js" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>&nbsp;
@@ -44,13 +42,17 @@ Si tienes un proyecto desafiante en mente, ¡hablemos! 🚀
   <img src="https://github-profile-trophy.vercel.app/?username=esteban992521&theme=dark_lover" alt="github-trophies" />
 </div>
 
-## 🔥 Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=esteban992521)](https://git.io/streak-stats)
+# ☕ Apóyame con un café  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=esteban992521&theme=highcontrast)](https://git.io/streak-stats)
+Si te gusta mi trabajo y quieres ayudarme a seguir creando, ¡invítame un café! 🧡 
+
+<a href="https://www.buymeacoffee.com/hugoesteban" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200">
+</a>
 
 
-<div style="width: calc(50% - 40px); padding: 20px; height: auto; border-radius: 5px; background: radial-gradient(#22123D, #151515); display: flex; flex-direction: column; align-items: start; justify-content: end;">
-    <h3 style="color: #9F9F9F; margin: 0;">Support</h3>
-    <a href="https://buymeacoffee.com/hugoesteban" target="_blank" style="color: #fff; font-size: 28px; width: calc(100% - 40px); line-height: 32px;">https://buymeacoffee.com/hugoesteban</a>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
