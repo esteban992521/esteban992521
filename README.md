@@ -1,8 +1,9 @@
-## 👨‍💻 ¡Hola Mundo!, Soy HugoDev.
+
+## 👨‍💻 ¡Hola Mundo!, Bienvenido a HugoDev.
 
 [![Have a look at esteban992521 Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/theshiveshnetwork)](https://holopin.me/theshiveshnetwork)
 
-<div style="display: flex; gap: 10px; width: 100%; height: auto; margin-bottom: 10px;">
+<div style="display: flex; gap: 10px; width: 100%; height: auto; margin-bottom: 10px; margin-top:10px">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=esteban992521&show_icons=true&theme=dark"
