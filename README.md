@@ -1,7 +1,8 @@
 
 ## 👨‍💻 ¡Hola Mundo!, Bienvenido a HugoDev.
 
-[![Have a look at esteban992521 Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/theshiveshnetwork)](https://holopin.me/theshiveshnetwork)
+[![An image of @esteban992521's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/esteban992521)](https://holopin.io/@esteban992521)
+
 
 <div style="display: flex; gap: 10px; width: 100%; height: auto; margin-bottom: 10px; margin-top:10px">
 <picture>
